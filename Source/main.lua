@@ -5,7 +5,6 @@
 -- upd: 20220503
 
 --[[ TODO:
-1. commit all 2 git + release +desc
 # LATER:
 1. PL chars proper?
 2. msx 2 mp3 - some issue - WTF?

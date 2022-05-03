@@ -1,0 +1,9 @@
+name=Turbo Wieszcz++
+author=Noniewicz.com
+description=Famous polish poem generator
+bundleID=com.noniewicz.playdate.tw
+imagePath=system/
+version=1.0
+build=1
+pdxversion=11000
+buildtime=704851016
