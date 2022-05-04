@@ -14,6 +14,7 @@ TODO:
 2. music - convert WAV to MP3 (resolve issue with pdc?!)
 3. add some nice anims?
 
+Note: there are more versions - see [here](http://noniewicz.com/product.php?l=2&key=tw) for info.
 
 ![example](/res/tw-playdate-1.png?raw=true "Example")
 ![example](/res/tw-playdate-2.png?raw=true "Example")
