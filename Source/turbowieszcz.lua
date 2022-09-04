@@ -1,5 +1,5 @@
-﻿
--- Turbo Wieszcz ++ LUA version, v1.0
+
+-- Turbo Wieszcz ++ LUA version, v2.0
 -- (c)2022 Noniewicz.com, Jakub Noniewicz
 
 -- translated directly from previous version written in Python
@@ -16,6 +16,7 @@
 
 -- created: 20220501 (initial release took: 2.5h)
 -- updated: 20220502, 13 (prep for Playdate console)
+-- updated: 20220904
 
 
 ENDINGS1 = {'.', '...', '.', '!', '.'}

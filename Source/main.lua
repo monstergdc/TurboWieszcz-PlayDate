@@ -1,8 +1,9 @@
 
--- Turbo Wieszcz++ version in LUA for Playdate console, v1.0
+-- Turbo Wieszcz++ version in LUA for Playdate console, v2.0
 -- (c)2022 Noniewicz.com, Jakub Noniewicz aha MoNsTeR/GDC
 -- cre: 20220502
 -- upd: 20220503
+-- upd: 20220904
 
 --[[ TODO:
 # LATER:
@@ -96,7 +97,7 @@ function playdate.update()
 		gfx.setFont(font)
 		gfx.drawText('Turbo\nWieszcz++', 4, 2)
 		gfx.setFont(font2)
-		gfx.drawText('v1.0, build: 20220503\nFreeware!', 4, 66)
+		gfx.drawText('v2.0, build: 20220904\nFreeware!', 4, 66)
 		gfx.drawText('(c)2022 Noniewicz.com', 4, 240-20)
 		if playdate.buttonJustPressed("B") or playdate.buttonJustPressed("A") then
 			mode = 1
